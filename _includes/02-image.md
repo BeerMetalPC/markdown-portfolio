@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Meme about the movie Avatar](https://media.discordapp.net/attachments/372771891041009665/949456578107568219/20220304_184003.jpg)
